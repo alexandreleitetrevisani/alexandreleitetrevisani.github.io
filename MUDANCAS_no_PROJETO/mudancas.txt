@@ -1,0 +1,35 @@
+linha 123 - APAGADO o conteúdo
+            
+              <h3></h3>
+
+linha 125 - APAGADO o conteúdo
+
+              <p></p>
+
+
+
+linha 128 - ALTERADO 
+
+        de
+              <a href="cv/resume.pdf" class="btn btn-secondary" target="_blank"></a>
+        para
+              <a href="cv/resume.pdf" class="btn btn-secondary" target="_blank"></a>
+  
+
+
+
+linha 132 - MODIFICADA
+                de     <div class="col-sm-6 col-md-6 col-lg-6">
+
+                para
+
+                       <div class="col-sm-12 col-md-12 col-lg-12">
+
+
+                      
+linha 139 - APAGADA
+
+  <li><span class="title">Freelance</span><span class="value available">Disponível</span></li>
+
+
+
