@@ -1,3 +1,12 @@
+
+
+linha 68 - APAGADO o texto
+
+                   <div class="mobile-site-title">Felicity Jones</div>
+
+
+
+
 linha 123 - APAGADO o conteúdo
             
               <h3></h3>
@@ -33,6 +42,13 @@ linha 139 - APAGADA
 
 
 
+linha 162 - APAGADO o texto
+
+                                     <h3>EDUCAÇÃO PADRÃO</h3>
+
+
+
+
 linha 169 e 170  -  APAGADAS
 
             <span class="item-period">2010</span>
@@ -60,3 +76,12 @@ linha 180, 181 e 182  -  APAGADO
                             <p class="item-description">Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.</p>
                           </div>
                           
+
+
+linha 352 - APAGADO o texto
+
+                                      <h3>Educação Especializada</h3>
+
+
+
+
